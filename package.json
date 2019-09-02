@@ -1,0 +1,36 @@
+{
+  "name": "indecision-app-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luly Atilano",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server public/",
+    "build": "webpack",
+    "dev-server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "live-server": "^1.2.1",
+    "node-sass": "^4.12.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-modal": "^3.10.1",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.39.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "eslint": "^6.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "normalize.css": "^8.0.1",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
