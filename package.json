@@ -1,5 +1,5 @@
 {
-  "name": "indecision-app-2",
+  "name": "budget-app",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Luly Atilano",
@@ -30,6 +30,7 @@
     "eslint": "^6.2.1",
     "eslint-plugin-react": "^7.14.3",
     "normalize.css": "^8.0.1",
+    "react-router-dom": "^5.0.1",
     "webpack-cli": "^3.3.7",
     "webpack-dev-server": "^3.8.0"
   }
